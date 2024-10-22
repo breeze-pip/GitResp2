@@ -6,4 +6,6 @@ package com.breeze;
  * @Description:com.breeze
  */
 public class Student {
+    private int age;
+    private String name;
 }
